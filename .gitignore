@@ -35,3 +35,6 @@ go.work.sum
 
 # SSL/TLS certificates
 certs/*
+
+# Exclude binaries
+bin/
