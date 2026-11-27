@@ -1,4 +1,4 @@
-BIN_FILENAME=my-grpc-server
+BIN_FILENAME=test-grpc-server
 
 .PHONY: clean build execute docker-up docker-down gen-ssl-certs
 

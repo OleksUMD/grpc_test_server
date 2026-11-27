@@ -3,6 +3,7 @@ This is a simple gRPC server with examples how to use it in unary/stream mode.
 
 ## Prerequisites
 ### All the following tools should be installed before trying to run the server
+* [Go](https://go.dev/)
 * [Docker](https://docs.docker.com/engine/install/ubuntu/) and [docker compose](https://docs.docker.com/compose/install/)
 * [OpenSSL](https://github.com/openssl/openssl#build-and-install)
 * [GNU make](https://github.com/mirror/make)
